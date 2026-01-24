@@ -13,39 +13,31 @@ Numbers in Spatial Arithmetic have two types:
 
 + Numbers containing spatial dimensions – Spatial Values: When a number contains spatial dimensions, a subscript n is added to indicate how many spatial dimensions it embodies.If there is no subscript, it is one-dimensional—used as in traditional arithmetic, e.g., for measurements, coordinates, or value increments/decrements.
 
-But when spatial properties must be represented, the subscript must appear: Example:The volume of a “deficient cube”: -11 x -11 x -11 = -13 or the area of a “deficient square”: -11 x -11 = -12.
+But when spatial properties must be represented, the subscript must appear: Example:The volume of a “deficient cube”: -1₁ x -1₁ x -1₁ = -1₃ or the area of a “deficient square”: -1₁ x -1₁ = -1₂.
 
 That is, when one more spatial dimension is added, the subscript must be written.
 
 + Numbers without spatial dimensions: These are constants used to indicate magnitude or serve in ordinary arithmetic operations, such as multiplying by a scalar representing repetition or quantity. 
-Example: the equation x2 + 1 = 0 hay x2 = -1.
+Example: the equation x² + 1 = 0 hay x² = -1.
 If -1 has no subscript (i.e., one-dimensional), the equation has no solution.
 
  
-If -1₂ (two-dimensional), the equation has a solution x interpreted as the side length of a “hollow square” of (-11)2 = -1₂.
+If -1₂ (two-dimensional), the equation has a solution x = -1₁ , which can be interpreted as the side length of a “hollow square” of length -1. It means (-1₁)² = -1₂.
 Another example: x² = 1
 
 When 1 has no subscript (1D), the equation has x = ±1.
  
-= -11, which can be length -1. It means
- 
+When 1₂ (2D), the equation has x = 1₁. When 1ₙ (n-dimensional), we can rewrite: 𝑥²=1ₙ ⇒ (𝑥²⁄ⁿ)ⁿ=1ₙ ⇒ 𝑥²⁄ⁿ=1 ⇒ 𝑥=±1 Others: -1₂ x 2 = -2₂ ; -1₂ x -2 = 2₂ ; 1₂ x -2 = -2₂
+But -1₂ x -1₁ = -1₃ , -1₂ x -2₁ = -2₃ , (-1₁)⁴ = -1₄ This means the operation adds more dimensions. 
 
-When 1₂ (2D), the equation has x = 11. When 1ₙ (n-dimensional), we can rewrite: 𝑥2=1𝑛 ⇒ (𝑥2/𝑛)𝑛=1𝑛 ⇒ 𝑥2/𝑛=1 ⇒ 𝑥=±1 Others: -12 x 2 = -22 ; -12 x -2 = 22 ; 12 x -2 = -22
-But -12 x -11 = -13 , -12 x -21 = -23 , (-11)4 = -14 This means the operation adds more
-
-dimensions. 
 3) Calculation of Spatial Value:
 
 A number containing spatial dimensions represents the variation in the spatial state of energy as it moves.When energy moves, it changes its spatial state—producing a spatial value.
 
  
-Formular Spatial Value spatial dimensions, a,
+Formular Spatial Value (Lₘ₊ₙ) = aₘ x bₙ = c(ₘ₊ₙ) 
  
-(Lm+n) = am x bn b, and c must
- 
-= c(m+n) (when adding have the same sign,
- 
-and |a| × |b| = |c|)
+(when adding spatial dimensions, a,b, and c must have the same sign, and |a| × |b| = |c|)
 
 That is, spatial value—the change in spatial state of energy—is the product of the scalar projections of an object’s motion vector along spatial and temporal axes. 
 Example: In a 2D coordinate system L (one spatial, one temporal axis), an object moving from point A to point B has a spatial value equal to distance × time.
