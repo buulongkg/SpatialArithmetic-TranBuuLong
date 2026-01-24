@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17409878.svg)](https://doi.org/10.5281/zenodo.17409878)
+
 # SpatialArithmetic-TranBuuLong
 Spatial Arithmetic is Arithmetic extended to include the intrinsic nature of space within it, aiming to represent the spatial state variations of energy. Numbers in Spatial Arithmetic have two types: Numbers containing spatial dimensions and Numbers without spatial dimensions. Energy Motion “Produces” Spatial Value.
 Details:
@@ -155,3 +157,5 @@ My DOI in Zenodo:
 
 Google Scholar link:
 https://scholar.google.com/citations?view_op=list_works&hl=vi&hl=vi&user=YgCQBKIAAAAJ
+
+This repository presents and extends the core ideas archived in the Zenodo record above.
