@@ -159,3 +159,12 @@ Google Scholar link:
 https://scholar.google.com/citations?view_op=list_works&hl=vi&hl=vi&user=YgCQBKIAAAAJ
 
 This repository presents and extends the core ideas archived in the Zenodo record above.
+
+Priority & Provenance Statement
+
+This repository is a public release associated with DOI-registered records on Zenodo.
+The core concepts, theoretical framework, and foundational ideas presented here originate from prior DOI-stamped publications by Trần Bửu Long (Rạch Giá, Kiên Giang (An Giang), Vietnam).
+
+GitHub serves as a dissemination and development platform; priority, authorship, and temporal provenance are established by the Zenodo DOI records.
+Any later works exhibiting conceptual overlap should be evaluated with respect to these registered timestamps.
+
