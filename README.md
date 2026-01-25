@@ -1,11 +1,11 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17409878.svg)](https://doi.org/10.5281/zenodo.17409878)
 
-# Welcome to Spatial Arithmetic
+# Spatial Arithmetic - The Beginning Toward the Unified Science of Humanity
 Author: Trần Bửu Long (Rạch Giá, Kiên Giang (An Giang), Việt Nam)
 
 Spatial Arithmetic is Arithmetic extended to include the intrinsic nature of space within it, aiming to represent the spatial state variations of energy. Numbers in Spatial Arithmetic have two types: Numbers containing spatial dimensions and Numbers without spatial dimensions. Energy Motion “Produces” Spatial Value.
 Details:
-Spatial Arithmetic – The Beginning Toward the Unified Science of Humanity 
+**Spatial Arithmetic – The Beginning Toward the Unified Science of Humanity **
 
 **1) Concept**
 
@@ -17,20 +17,22 @@ Thus, traditional Arithmetic, when expanded to contain spatial factors, becomes 
 
 Numbers in Spatial Arithmetic have two types:
 
-Numbers containing spatial dimensions – Spatial Values: When a number contains spatial dimensions, a subscript n is added to indicate how many spatial dimensions it embodies.If there is no subscript, it is one-dimensional—used as in traditional arithmetic, e.g., for measurements, coordinates, or value increments/decrements.
+- Numbers containing spatial dimensions – Spatial Values: When a number contains spatial dimensions, a subscript n is added to indicate how many spatial dimensions it embodies. If there is no subscript, it is one-dimensional—used as in traditional arithmetic, e.g., for measurements, coordinates, or value increments/decrements.
 But when spatial properties must be represented, the subscript must appear: Example:The volume of a “deficient cube”: -1₁ x -1₁ x -1₁ = -1₃ or the area of a “deficient square”: -1₁ x -1₁ = -1₂.
 
 That is, when one more spatial dimension is added, the subscript must be written.
 
-Numbers without spatial dimensions: These are constants used to indicate magnitude or serve in ordinary arithmetic operations, such as multiplying by a scalar representing repetition or quantity. Example: the equation x² + 1 = 0 hay x² = -1. If -1 has no subscript (i.e., one-dimensional), the equation has no solution.
-If -1₂ (two-dimensional), the equation has a solution x = -1₁ , which can be interpreted as the side length of a “hollow square” of length -1. It means (-1₁)² = -1₂. Another example: x² = 1
+- Numbers without spatial dimensions: These are constants used to indicate magnitude or serve in ordinary arithmetic operations, such as multiplying by a scalar representing repetition or quantity.
+  Example: the equation x² + 1 = 0 hay x² = -1. If -1 has no subscript (i.e., one-dimensional), the equation has no solution.
+If -1₂ (two-dimensional), the equation has a solution x = -1₁ , which can be interpreted as the side length of a “hollow square” of length -1. It means (-1₁)² = -1₂.
+Another example: x² = 1
 
 When 1 has no subscript (1D), the equation has x = ±1.
 
 When 1₂ (2D), the equation has x = 1₁. When 1ₙ (n-dimensional), we can rewrite: 𝑥²=1ₙ ⇒ (𝑥²⁄ⁿ)ⁿ=1ₙ ⇒ 𝑥²⁄ⁿ=1 ⇒ 𝑥=±1 Others: -1₂ x 2 = -2₂ ; -1₂ x -2 = 2₂ ; 1₂ x -2 = -2₂ But -1₂ x -1₁ = -1₃ , -1₂ x -2₁ = -2₃ , (-1₁)⁴ = -1₄ This means the operation adds more dimensions.
 
 **3) Calculation of Spatial Value:**
-A number containing spatial dimensions represents the variation in the spatial state of energy as it moves.When energy moves, it changes its spatial state—producing a spatial value.
+A number containing spatial dimensions represents the variation in the spatial state of energy as it moves. When energy moves, it changes its spatial state—producing a spatial value.
 
 Formular Spatial Value (Lₘ₊ₙ) = aₘ x bₙ = cₘ₊ₙ
 
@@ -58,7 +60,9 @@ Positive parts—solid lines; negative parts—dashed lines. Thus, only two mean
 
 When all dimensions are positive, the spatial value is positive, denoted with solid lines.
 
-When all are negative, the spatial value is negative (deficient), shown with dashed or shaded lines. Why only two meaningful regions? Because once a spatial value is produced, all contained dimensions are produced simultaneously—just like air inflating all directions of a balloon. Some dimensions may expand more or less depending on compression, but none become negative; if one decreases, others increase correspondingly. Example: In 2D (x,y): When both x, y > 0 → positive area (solid). When both x, y < 0 → deficient area (dashed). Similarly extended to 3D (x,y,z) → meaningful only when all same-sign. When mixed-sign → meaningless region. And analogously extended to 4D, where time is another spatial dimension.
+When all are negative, the spatial value is negative (deficient), shown with dashed or shaded lines. 
+
+Why only two meaningful regions? Because once a spatial value is produced, all contained dimensions are produced simultaneously—just like air inflating all directions of a balloon. Some dimensions may expand more or less depending on compression, but none become negative; if one decreases, others increase correspondingly. Example: In 2D (x,y): When both x, y > 0 → positive area (solid). When both x, y < 0 → deficient area (dashed). Similarly extended to 3D (x,y,z) → meaningful only when all same-sign. When mixed-sign → meaningless region. And analogously extended to 4D, where time is another spatial dimension.
 
 A “deficient volume” does not stretch endlessly through time, because in Spatial Arithmetic, the time component of a deficient volume must also be negative.
 
@@ -84,29 +88,33 @@ The energy that causes an object’s motion ultimately derives from the same sou
 
 **7) Applications of Spatial Arithmetic**
 
-**The Misconception About Time When the Concept of Spatial Value Is Not Understood**
+**- The Misconception About Time When the Concept of Spatial Value Is Not Understood**
 Let us consider the L-coordinate system in two dimensions (one spatial dimension and one temporal dimension) — that is, the motion of an object along a straight line in classical mechanics. Suppose that, in physical space, we take the origin A on this straight line, and the object moves toward B. When we understand spatial value, we see that as the object moves, it generates spatial value, from which time itself emerges, allowing us to measure velocity and distance.There is a common misconception that even if the object does not move, time still flows. This arises from confusion between the chosen reference frame (the origin A, the point B, and the moving object) and the deeper cosmological framework — in reality, we, the points A and B, and the object we observe all exist within the expanding universe, whose expansion gives rise to the flow of time. Thus, when the universe expands, time flows. All spatial states within the universe experience this passage of time. Human beings, being part of this expanding space, grow old as time flows. Whether the universe’s time flows fast, slow, or stops entirely cannot be perceived by those within it — for we are inside that system. When the universe expands, the spatial value increases, and that increase manifests as the flow of time. We, existing within this physical space, can only observe time’s passage by comparing motion — for example, through the ticking of a clock.But seeing the clock’s hand complete a 24-hour cycle does not truly tell us whether time flows faster, slower, or even stands still on the cosmological scale.
 
-**Spatial Arithmetic Explains Entropy, Big Bang and Answers the Question: Does a Black Hole Give Birth to Another Universe?**
+**- Spatial Arithmetic Explains Entropy, Big Bang and Answers the Question: Does a Black Hole Give Birth to Another Universe?**
 **Spatial Arithmetic Explains Entropy, Big Bang**
 The nature of energy—motion increasing spatial value—explains entropy and cosmic expansion. When energy was extremely compressed at the beginning, its motion created spatial value → spacetime → universe expansion. Expansion continues while energy remains. When energy drains (transferred elsewhere), spatial value stops increasing → expansion halts. The Big Bang occurred because the immense primordial energy moved and thereby generated spatial value. From that motion, space-time was born, or in other words, the Universe began to expand. Space-time (the expanding Universe) is a consequence of energy in motion. With such energy, the Universe continues to expand unless energy is withdrawn into another universe, or it may expand faster if more energy is supplied. When the energy within this universe is depleted, the spatial value no longer increases, and the Universe’s expansion stops — space-time ceases.
 
-Does a Black Hole Give Birth to Another Universe? Yes. As previously explained, when energy is compressed, it induces variations in spatial value on surrounding matter — increasing that value. If this compression becomes extreme, the induced variation exceeds the spatial boundary of the current Universe. At that point, the increase in spatial value can no longer occur within this universe and thus transfers to a newly formed universe generated within that very compressed energetic state. Space is not a substance that exists independently; rather, it is the state of energy in motion. Therefore, when a new universe is “born,” it does not disrupt the original one. Instead, a portion of energy from the initial universe has transformed, creating a new spatial state within itself. This mechanism also explains why the energy of the original universe no longer increases spatial value in itself but instead does so in the new universe.
-**Curvature of Spacetime (Relativity)**
+**Does a Black Hole Give Birth to Another Universe?** Yes. As previously explained, when energy is compressed, it induces variations in spatial value on surrounding matter — increasing that value. If this compression becomes extreme, the induced variation exceeds the spatial boundary of the current Universe. At that point, the increase in spatial value can no longer occur within this universe and thus transfers to a newly formed universe generated within that very compressed energetic state. Space is not a substance that exists independently; rather, it is the state of energy in motion. Therefore, when a new universe is “born,” it does not disrupt the original one. Instead, a portion of energy from the initial universe has transformed, creating a new spatial state within itself. This mechanism also explains why the energy of the original universe no longer increases spatial value in itself but instead does so in the new universe.
+
+**- Curvature of Spacetime (Relativity)**
 When segment AB moves near light speed, its spatial value divides into two parts:one shortens AB (length contraction), the other becomes its travel distance.
 
 Due to high energy, spatial value increases, so time dilates relative to an observer.
 
-Hence, relativistic effects reflect changes in spatial value. Note:
+Hence, relativistic effects reflect changes in spatial value. 
 
-The L-coordinate system measures changes in spatial value (a meta-framework outside physical space), while the Descartes system represents physical positions inside the universe. When mass is large, its potential energy increases spatial value, causing nearby objects to move toward it (gravity), compressing volume and slowing time. At extreme density (black holes), this stretching becomes immense—like pulling one end of a balloon rapidly.
+Note:
+The L-coordinate system measures changes in spatial value (a meta-framework outside physical space), while the Descartes system represents physical positions inside the universe. 
 
-**Cosmic Expansion and Gravity**
+When mass is large, its potential energy increases spatial value, causing nearby objects to move toward it (gravity), compressing volume and slowing time. At extreme density (black holes), this stretching becomes immense—like pulling one end of a balloon rapidly.
+
+**- Cosmic Expansion and Gravity**
 Spatial Arithmetic thus also explains the expansion of the universe and gravitational attraction, showing that they are not contradictory. Why does the universe expand? Because of energy. Since the beginning, energy has increased spatial value — causing the universe to expand and time to emerge. At certain stages, different energy states collided and formed “matter.” Because these energy states contained energy, when they merged, they converted that energy into potential energy, thereby increasing spatial value — by attracting nearby matter (again increasing spatial value).
 
 Hence, the essence of cosmic expansion and gravitational attraction is fundamentally the same: both increase spatial value — they differ only in their energy states. We merely perceive them differently because we exist within the universe: gravity appears to pull objects together, while cosmic expansion seems to push them apart. In truth, these are two facets of one phenomenon — the continuous increase of spatial value.
 
-**Other Applications:**
+**- Other Applications:**
 Spatial Arithmetic shows the limit of imaginary numbers (i) in solving higher-degree equations: if i contains dimensional meaning, solutions can become contradictory.
 
 It suggests potential in technology and space science, including time travel and instantaneous transport, as theoretically feasible. 
