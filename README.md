@@ -155,9 +155,14 @@ This repository presents theoretical concepts only.
 All rights to any commercial use, specific implementation, algorithm, or software derived from or based on these concepts are expressly reserved by the author. Licensing for commercial or industrial applications must be negotiated separately with the author.
 
 **Prior Art Notice – Spatial Arithmetic (SA) Framework**
+
 This document serves as a formal public disclosure of the Spatial Arithmetic (SA) framework, establishing it as Prior Art.
 Core principles—including the emergence of space and dimensionality from energy dynamics, and the unified representation of number–dimension for machine intelligence and computation—are publicly disclosed herein.
 Consequently, these foundational concepts are ineligible for subsequent novelty claims or exclusive patenting by any third party. The author, Trần Bửu Long, expressly reserves all rights regarding specific commercial implementations and software derivatives.
+
 Author: Trần Bửu Long
+
 Evidence of Priority (Timestamped): Zenodo DOI and GitHub Repository.
+
+© 2024-2026 Trần Bửu Long. All rights reserved regarding commercial implementations.
 
