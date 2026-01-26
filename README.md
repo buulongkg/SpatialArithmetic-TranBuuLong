@@ -153,6 +153,7 @@ This theoretical work is licensed under CC BY 4.0.
 **Legal clarification**  
 This repository presents theoretical concepts only.
 All rights to any commercial use, specific implementation, algorithm, or software derived from or based on these concepts are expressly reserved by the author. Licensing for commercial or industrial applications must be negotiated separately with the author.
+Any translation, adaptation, or conversion of the structure, sequence, and organization of this framework into any programming language or machine-readable format is considered a derivative work and requires prior written authorization.
 
 **Prior Art Notice – Spatial Arithmetic (SA) Framework**
 
