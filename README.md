@@ -167,3 +167,4 @@ Evidence of Priority (Timestamped): Zenodo DOI and GitHub Repository.
 
 © 2024-2026 Trần Bửu Long. All rights reserved regarding commercial implementations.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18380117.svg)](https://doi.org/10.5281/zenodo.18380117)
