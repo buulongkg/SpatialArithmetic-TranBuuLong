@@ -147,3 +147,10 @@ This repository is a public release associated with DOI-registered records on Ze
 
 GitHub serves as a dissemination and development platform; priority, authorship, and temporal provenance are established by the Zenodo DOI records. Any later works exhibiting conceptual overlap should be evaluated with respect to these registered timestamps.
 
+## License
+This theoretical work is licensed under CC BY 4.0.
+
+**Legal clarification**  
+This repository presents theoretical concepts only.
+All rights to any commercial use, specific implementation, algorithm, or software derived from or based on these concepts are expressly reserved by the author. Licensing for commercial or industrial applications must be negotiated separately with the author.
+
