@@ -172,7 +172,7 @@ IMPORTANT: PLEASE READ THIS AGREEMENT CAREFULLY. BY DOWNLOADING, CLONING, ACCESS
 The Spatial Arithmetic (SA) Framework, its original expressive structure, mathematical architecture, formal representation, Structure, Sequence, and Organization (SSO), and documented implementation expression are the sole intellectual property of the author, Trần Bửu Long (Rach Gia, Kien Giang (An Giang), Vietnam). These works are protected by international copyright laws and treaties.
 
 **2. GRANT OF LICENSE**
-Academic & Personal Use: You are granted a non-exclusive, non-transferable license to use the SA Framework for non-commercial, academic, and personal research purposes only, under a custom Academic & Personal Use License inspired by CC BY 4.0 (Attribution-Required), but NOT permitting commercial use. Attribution to Trần Bửu Long is mandatory.
+Academic & Personal Use: You are granted a non-exclusive, non-transferable license to use the SA Framework for non-commercial, academic, and personal research purposes only, under the terms of the CC BY 4.0 license. Attribution to Trần Bửu Long is mandatory.
 Commercial Use Prohibited: Any commercial or industrial application, including but not limited to incorporating SA logic into software, hardware, AI models, or proprietary algorithms for profit, is STRICTLY PROHIBITED without a separate, written Commercial License Agreement signed by the author.
 
 **3. RESTRICTIONS**
