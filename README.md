@@ -172,19 +172,27 @@ IMPORTANT: PLEASE READ THIS AGREEMENT CAREFULLY. BY DOWNLOADING, CLONING, ACCESS
 The Spatial Arithmetic (SA) Framework, its original expressive structure, mathematical architecture, formal representation, Structure, Sequence, and Organization (SSO), and documented implementation expression are the sole intellectual property of the author, Trần Bửu Long (Rach Gia, Kien Giang (An Giang), Vietnam). These works are protected by international copyright laws and treaties.
 
 **2. GRANT OF LICENSE**
+
 Academic & Personal Use: You are granted a non-exclusive, non-transferable license to use the SA Framework for non-commercial, academic, and personal research purposes only, under the terms of the CC BY 4.0 license. Attribution to Trần Bửu Long is mandatory.
+
 Commercial Use Prohibited: Any commercial or industrial application, including but not limited to incorporating SA logic into software, hardware, AI models, or proprietary algorithms for profit, is STRICTLY PROHIBITED without a separate, written Commercial License Agreement signed by the author.
 
 **3. RESTRICTIONS**
+
 You shall not:
-Decompile, reverse-engineer, or attempt to derive or replicate the distinctive expressive structure, arrangement, and formal organization of the SA Framework to create competing commercial products without authorization.
-Remove or obscure any copyright notices, DOI badges, or priority statements from the materials.
-Claim novelty or file for patents on any technology derived from the foundational principles disclosed in this framework (refer to the Prior Art Notice).
+
+- Decompile, reverse-engineer, or attempt to derive or replicate the distinctive expressive structure, arrangement, and formal organization of the SA Framework to create competing commercial products without authorization.
+
+- Remove or obscure any copyright notices, DOI badges, or priority statements from the materials.
+
+- Claim novelty or file for patents on any technology derived from the foundational principles disclosed in this framework (refer to the Prior Art Notice).
 
 **4. NO WARRANTY (DISCLAIMER)**
+
 THE SA FRAMEWORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THESE THEORETICAL CONCEPTS IN REAL-WORLD APPLICATIONS. THE USER ASSUMES ALL RISKS.
 
 **5. TERMINATION**
+
 This license shall terminate automatically and immediately if you fail to comply with any of its terms or conditions, without prior notice.
 Upon termination, you must immediately cease all use, access, reproduction, distribution, and commercialization of the SA Framework and any associated SSO materials.
 You must destroy or permanently delete all copies in your possession or control, including any derivative works, implementations, trained models, datasets, or systems incorporating the SA Framework.
