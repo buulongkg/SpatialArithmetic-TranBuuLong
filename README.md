@@ -204,5 +204,16 @@ This agreement shall be governed by the laws of the Socialist Republic of Vietna
 Author: Trần Bửu Long (Rạch Giá, Kiên Giang (An Giang), Vietnam)
 Contact for Licensing: buulongkg@gmail.com
 
+**INTELLECTUAL PROPERTY & LICENSING CLARIFICATION**
+
+**1) Content License:** The textual, descriptive, and illustrative content of this document/repository is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). This allows for the sharing and adaptation of the information herein, provided appropriate credit is given.
+
+**2) Structure, Sequence and Organization (SSO) Reservation:** The license (CC BY 4.0) does not extend to any functional implementation, algorithms, or the specific Structure, Sequence, and Organization (SSO) of the Spatial Arithmetic (SA) framework.
+
+**3) Commercial Restriction:** Any integration of the SA framework into commercial software, hardware, or AI training models constitutes a use of the author’s proprietary Software Architecture and Methodology. Such use is NOT authorized under CC BY 4.0 and requires a separate, explicit Commercial License from the Author.
+
+**4) Patent & Trade Secret Notice:** The structure, sequence and organization of SA are treated as proprietary intellectual assets. Unauthorized commercial exploitation will be considered an infringement of the author's fundamental rights over the technological innovation itself.
+
+
 © 2024-2026 Trần Bửu Long. All rights reserved regarding commercial implementations.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18380117.svg)](https://doi.org/10.5281/zenodo.18380117)
