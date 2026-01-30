@@ -148,7 +148,9 @@ This repository is a public release associated with DOI-registered records on Ze
 GitHub serves as a dissemination and development platform; priority, authorship, and temporal provenance are established by the Zenodo DOI records. Any later works exhibiting conceptual overlap should be evaluated with respect to these registered timestamps.
 
 ## License
-This theoretical work is licensed under CC BY 4.0.
+The textual and descriptive content of this repository is licensed under CC BY 4.0.
+The underlying theoretical framework, Structure, Sequence, and Organization (SSO), and any functional or commercial implementation rights are expressly reserved by the Author.
+
 
 **Legal clarification**  
 This repository presents theoretical concepts only.
