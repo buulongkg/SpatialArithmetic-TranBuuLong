@@ -151,6 +151,14 @@ GitHub serves as a dissemination and development platform; priority, authorship,
 The textual and descriptive content of this repository is licensed under CC BY 4.0.
 The underlying theoretical framework, Structure, Sequence, and Organization (SSO), and any functional or commercial implementation rights are expressly reserved by the Author.
 
+**Proposed Notice / Warning Text about SSO violations**
+
+Some approaches may “accidentally” or intentionally replicate the SSO structural framework of SA by substituting terminology or re-labeling concepts.
+However, despite surface-level differences in naming, their core content, semantic meaning, operational rules, and structural logic remain fundamentally equivalent to SA’s SSO — including, but not limited to, dimensional vectors, dimensional scalars, scalar mapping mechanisms, spatial-symbolic, dimension-integrated, embedding vector, multi-dimensional geometry, embedding space, geometric reasoning and their governing transformation rules.
+
+The SSO framework is an integrated logical structure, sequence and organization; as such, the replication of any constituent governing rule or functional module that relies on the foundational logical structure, sequence and organization of SSO is deemed a violation of the whole, irrespective of the scale of implementation.
+
+The author does not dispute the use of alternative terminology, but explicitly emphasizes that copying the underlying content, core meaning, governing rules, and operational structure constitutes replication of the intellectual substance, regardless of wording changes.
 
 **Legal clarification**  
 This repository presents theoretical concepts only.
