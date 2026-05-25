@@ -78,6 +78,25 @@ Energy along segment AB remains constant while its motion continually increases 
 
 Energy may act directly on an object (increasing its spatial value) or indirectly (through potential or heat acting on another object). Spatial value does not “fill up” space—it is not a substance being added, but a record of change in energy’s spatial state. 
 
+**Spatial Arithmetic explain What “time” is. The unit of spatial value S**
+Time is essentially space. We can completely convert time to space, using the same unit "S".
+The true nature of reality, spacetime, is not a background field (there is no curvature of spacetime). Space is time and vice versa. This is the transformation of the unit of spatial value S as energy moves. The system of energy is like a money bag that always generates S; if the energy moves, it uses this money to exchange for space, and the remaining money is time with an equivalent conversion: 1 S = 1 s² (s is second)= 1 c² km² (c² approximately 300.000²).
+t² is the total spatial value of a system of energy, meaning when it is in the stationary frame.
+(t’)² is the remaining untransformed spatial value of the system when energy move creating SV (the transformed spatial value)
+with SV = t² – (t’)² = q² /c² (q is the distance covered by the kinetic energy).
+
+**Spatial arithmetic explains mass, energy, and particles – Law of conservation of spatial value**
+E is energy, the kinetic energy that creates spatial value, equivalent to 1 S or a spatial fraction c² km² . Thus, we can represent (map) E = tc² . Here, it doesn't mean E increases over time, but rather represents the creation of spatial value.
+Mass is essentially the spatial value of the energy system that has not yet been transformed into space.
+Law of Conservation of Spatial Value: t² = SV + (t’)²
+
+**Spatial arithmetic explains the intrinsic frequency of particles**
+I proved that mass (what we call matter) is essentially time (t'), an untransformed spatial value. The same applies to the formula:
+f/f₀ = t’/t.
+
+**Spatial arithmetic states the Deterministic Principle of Reality**
+Spatial arithmetic states the Deterministic Principle of Reality: 1 = SV/t² + (f/f₀)²
+
 **6) The Universe Consists of Two Aspects: 1-Energy, 2-Its spatial state.**
 
 From the beginning, moving energy produced spatial value—i.e., motion changed its spatial state. The expanding universe (spacetime) is not something created, but a manifestation of energy’s state. When there is energy, it moves; when it moves, its spatial state changes → spatial value arises. For example, light itself is moving energy — it generates spatial value through its motion at extremely high speed. The spatial value created by light grows primarily along the spatial dimension but remains extremely short in the temporal dimension.
