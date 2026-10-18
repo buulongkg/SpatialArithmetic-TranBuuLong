@@ -102,7 +102,7 @@ Each unit of energy / particle obeys the Deterministic Equation, so we have the 
 
 SVₜ/t² + (fₜ/f₀)²  = (SV₁/t² + (f₁/f₀)² + SV₂/t² + (f₂/f₀)² + … + SVₙ/t² + (fₙ/f₀)²)/n
 
-Do not confuse SVₜ, fₜ with the sum or average of SVᵢ, fᵢ. This represents the spatial value distribution of the system (if the energy units were discrete (discrete particles), each particle would still have its own spatial value distribution state).
+Do not confuse SVₜ, fₜ with the sum or average of SVᵢ, fᵢ. This represents the spatial value distribution of the system (if the energy units were discrete (discrete particles), each particle would still have its own spatial value distribution state). SVₜ, fₜ are determined through frequency interaction (spatial value) with phase.
 
 **6) The Universe Consists of Two Aspects: 1-Energy, 2-Its spatial state.**
 
