@@ -97,6 +97,13 @@ f/f₀ = t’/t.
 **Spatial arithmetic states the Deterministic Principle of Reality**
 Spatial arithmetic states the Deterministic Principle of Reality: 1 = SV/t² + (f/f₀)²
 
+**General dynamic equation of a multi-particle system of Spatial Arithmetic**
+Each unit of energy / particle obeys the Deterministic Equation, so we have the general equation of motion for a multi-particle system as follows: 
+
+SVₜ/t² + (fₜ/f₀)²  = (SV₁/t² + (f₁/f₀)² + SV₂/t² + (f₂/f₀)² + … + SVₙ/t² + (fₙ/f₀)²)/n
+
+Do not confuse SVₜ, fₜ with the sum or average of SVᵢ, fᵢ. This represents the spatial value distribution of the system (if the energy units were discrete (discrete particles), each particle would still have its own spatial value distribution state).
+
 **6) The Universe Consists of Two Aspects: 1-Energy, 2-Its spatial state.**
 
 From the beginning, moving energy produced spatial value—i.e., motion changed its spatial state. The expanding universe (spacetime) is not something created, but a manifestation of energy’s state. When there is energy, it moves; when it moves, its spatial state changes → spatial value arises. For example, light itself is moving energy — it generates spatial value through its motion at extremely high speed. The spatial value created by light grows primarily along the spatial dimension but remains extremely short in the temporal dimension.
