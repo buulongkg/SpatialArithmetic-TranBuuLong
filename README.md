@@ -104,6 +104,8 @@ SVₜ/t² + (fₜ/f₀)²  = (SV₁/t² + (f₁/f₀)² + SV₂/t² + (f₂/f₀
 
 Do not confuse SVₜ, fₜ with the sum or average of SVᵢ, fᵢ. This represents the spatial value distribution of the system (if the energy units were discrete (discrete particles), each particle would still have its own spatial value distribution state). SVₜ, fₜ are determined through frequency interaction (spatial value) with phase.
 
+When energy hits the system (multi-particle/particle) beyond the load threshold of the frequency (which I call the spatial load  threshold), the particle will break down or split into new particles.
+
 **6) The Universe Consists of Two Aspects: 1-Energy, 2-Its spatial state.**
 
 From the beginning, moving energy produced spatial value—i.e., motion changed its spatial state. The expanding universe (spacetime) is not something created, but a manifestation of energy’s state. When there is energy, it moves; when it moves, its spatial state changes → spatial value arises. For example, light itself is moving energy — it generates spatial value through its motion at extremely high speed. The spatial value created by light grows primarily along the spatial dimension but remains extremely short in the temporal dimension.
